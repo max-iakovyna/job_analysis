@@ -1,0 +1,649 @@
+#languages
+java
+javascript|js|es6|es5|java script
+typescript
+python
+php
+perl
+scala
+c/c++|c++|c
+c#
+f#
+kotlin
+rust
+visual basic
+ruby
+golang|go-lang
+swift
+objective-c
+sql
+pl/sql
+t-sql|Transact-SQL|Transact SQL
+postgresql
+Dart
+groovy
+Scheme
+Clojure
+Erlang
+Haskell
+html
+bash|shell
+delphi
+
+#platforms
+.net
+android
+ios
+mac|macos
+unix-or-linux|unix|linux|ubuntu|centos
+windows
+
+#java web
+jsp
+servlets|servlet
+struts
+JSF
+Tapestry
+SpringMVC|Spring MVC
+Spring Security|Spring Security
+Spring data|Springdata
+soap
+jax-ws|jax ws
+jax-rs|jax rs
+#rest
+axis
+play!|play
+jetty
+netty
+jersey
+gwt
+Grails
+Flex
+spring
+Seam
+Wicket
+Stripes
+
+#java orm
+ActiveJDBC
+Athena Framework
+Carbonado
+Cayenne
+DataNucleus
+Ebean
+EclipseLink
+EJB
+Enterprise Objects Framework
+Hibernate
+iBATIS
+Java Data Objects
+JDO
+Java Object Oriented Querying
+jOOQ
+Java Persistence API
+JPA
+JPOX
+Kodo
+MyBatis
+Object Relational Bridge
+OJB
+ObjectDB
+OpenJPA
+ORMLite
+QuickDB
+TopLink
+Torque
+
+#java testing
+Arquillian
+beanSpec
+BeanTest
+Cactus
+Concordion
+Concutest
+Cucumber|Cucumber-JVM
+Cuppa
+DbUnit
+EasyMock
+EtlUnit	Yes
+EvoSuite
+GrandTestAuto
+GroboUtils
+HavaRunner
+Instinct
+JSST
+JBehave
+JDave
+JExample
+JGiven
+JMock
+JMockit
+Jnario
+Jtest
+Jukito
+JUnit
+JUnitEE
+JWalk
+Mockito
+Mockrunner
+Needle
+NUTester
+OpenPojo
+PowerMock
+Randoop
+SpryTest
+SureAssert
+TestNG
+Unitils
+XMLUnit
+
+#java ioc
+guice
+spring
+
+#java ee
+ejb
+jdbs
+jmx
+jms
+jndi
+Servlet
+JSP
+JSTL
+JavaServer Faces
+JSF
+JAX-RS
+WebSocket
+Websockets
+JSON-P
+JSR-250
+JTA
+JPA
+JSTL
+OSGi
+NIO
+
+#java app conteiners
+tomcat
+glassfish
+jboss
+WebSphere
+jetty
+
+#scala web
+lift
+spray
+play
+akka http|akkahttp
+scalatra
+Pinky
+Sweet
+Slinky
+Coeus
+Unfiltered
+Uniscala Granite
+Gardel
+Mondo
+Amore
+Scales XML
+Belt
+#Frank
+MixedBits
+Circumflex
+Scala Webmachine
+Bowler
+
+#scala orm
+Squeryl
+Activate
+MapperDao
+SORM
+Quill
+Memcontinuationed
+Sandra
+scouchdb
+scala-redis
+Casbah
+Gizzard
+Salat
+Rogue
+Hammersmith
+Subset
+Quill
+SLICK
+Circumflex
+ScalaQuery
+Prequel
+Querulous
+ScalaRelational
+sqlτyped
+
+#scala test
+Rehersal
+ScalaCheck
+ScalaTest
+ScUnit
+specs2
+
+#JS test frameworks
+AVA
+Suitest
+DOH
+LBRTW
+JSUnit
+EnhanceJS|Enhance.JS
+QUnit
+Unit.js
+RhUnit
+Crosscheck
+J3Unit
+Mocha
+intern
+JSNUnit
+YUI Test
+JSSpec
+UnitTesting
+JSpec
+Jasmine
+screw-unit
+Tape
+Test.Simple
+Test.More
+TestCase
+TestIt
+jsUnitTest
+JSTest
+JSTest.NET
+jsUnity
+RhinoUnit
+JasUnit
+FireUnit
+Js-test-driver
+Js-test-runner
+Sinon.js
+SOAtest
+Vows
+Nodeunit
+Tyrtle
+wru
+Buster.JS
+Lighttest
+Chai
+JSUS
+Wallaby.js
+
+#js common framworks
+node.js|node.js
+express.js|express|ExpressJS|Express JS
+meteor
+Bookshelf.js|Bookshelfjs|Bookshelf js
+Sequelize
+Lovefiled
+grunt
+gulp
+webpack
+Angular.js|Angular|AngularJS|Angular JS
+React.js|React
+Redux
+jQuery
+Socket
+Polymer
+D3.js
+Ember
+Aurelia
+Knockout
+Keystone
+Backbone.js|Backbone
+Stapes
+babel
+lodash
+three.js
+PhantomJS
+
+#web
+html|html5
+#json
+#xml
+websockets|websocket|web-socket|web socket
+webgl
+css
+sass
+less
+
+
+#distributed computing
+hadoop
+Spark
+Storm
+Flink
+akka
+camel
+
+#cluster & virtualisation
+mesos
+docker
+open stack
+Kubernetes
+rkt
+Rancher
+StackEngine
+
+#nosql, document oriented, data-lake and so on
+Hadoop
+HBase
+MapR
+Hortonworks
+Cloudera
+Cassandra
+Scylla
+Hypertable
+Accumulo
+SimpleDB
+Cloudata
+MonetDB
+HPCC
+Flink
+Informix
+Splice Machine
+eXtremeDB
+ConcourseDB
+Druid
+KUDU
+Elassandra
+Elastic
+ArangoDB
+OrientDB
+gunDB
+Mongo DB|Mongo DB|mongo
+Cloud Datastore
+Azure DocumentDB
+RethinkDB
+Couchbase Server
+CouchDB|Couch
+ToroDB
+SequoiaDB
+NosDB
+RavenDB
+MarkLogic Server
+Clusterpoint Server
+JSON ODM
+NeDB
+Terrastore
+AmisaDB
+JasDB
+RaptorDB
+djondb
+EJDB
+densodb
+SisoDB
+SDB
+NoSQL embedded db
+ThruDB
+iBoxDB
+BergDB
+ReasonDB
+IBM Cloudant
+DynamoDB
+Azure Table Storage
+Riak
+Redis
+Aerospike
+LevelDB
+RocksDB
+Berkeley DB
+Oracle NOSQL Database
+GenieDB
+BangDB
+Chordless
+Scalaris
+Tokyo Cabinet / Tyrant
+Scalien
+Voldemort
+Dynomite
+KAI
+MemcacheDB
+Faircom C-Tree
+LSM
+KitaroDB
+upscaledb
+STSdb
+Tarantool/Box
+Chronicle Map
+Maxtable
+quasardb
+Pincaster
+RaptorDB
+TIBCO Active Spaces
+allegro-C
+nessDB
+HyperDex
+SharedHashFile
+Symas LMDB
+Sophia
+NCache
+TayzGrid
+PickleDB
+Mnesia
+LightCloud
+Hibari
+OpenLDAP
+Genomu
+BinaryRage
+Elliptics
+DBreeze
+TreodeDB
+BoltDB
+Serenety
+Cachelot
+filejson
+Neo4J
+ArangoDB
+OrientDB
+Infinite Graph
+Sparksee
+TITAN
+InfoGrid
+HyperGraphDB
+GraphBase
+Trinity
+AllegroGraph
+BrightstarDB
+Meronymy
+WhiteDB
+Onyx Database
+OpenLink Virtuoso
+VertexDB
+FlockDB
+weaver
+BrightstarDB
+Execom IOG
+Fallen 8
+ArangoDB
+OrientDB
+Datomic
+gunDB
+CortexDB
+AlchemyDB
+WonderDB
+RockallDB
+FoundationDB
+Versant
+db4o
+Objectivity
+GemStone/S
+Starcounter
+Perst
+VelocityDB
+HSS Database
+ZODB
+Magma
+NEO
+siaqodb
+JADE
+Sterling
+MarcelloDB
+Morantex
+EyeDB
+FramerD
+Ninja Database Pro
+NDatabase
+PicoLisp
+acid-state
+ObjectDB
+CoreObject
+GridGain
+Crate Data
+Oracle Coherence
+GigaSpaces
+GemFire
+Infinispan
+Queplix
+Hazelcast
+EMC Documentum xDB
+eXist
+Sedna
+BaseX
+Qizx
+Berkeley DB XML
+Globals:
+Intersystems Cache
+GT.M
+SciDB
+MiniM DB
+rasdaman
+DaggerDB
+U2
+OpenInsight
+TigerLogic PICK
+Reality
+OpenQM
+Model 204 Database
+Tieto TRIP
+ESENT
+jBASE
+Event Store
+Eventsourcing for Java (es4j)
+Axibase
+Riak TS
+influxdata
+pipelinedb
+kdb+
+IBM Lotus/Domino
+eXtremeDB
+RDM Embedded
+ISIS Family
+Moonshadow
+VaultDB
+Vyhodb
+Prevayler
+Yserial
+BayesDB
+GPUdb
+KirbyBase
+Tokutek
+Recutils
+FileDB
+CodernityDB
+hive
+phoenix
+prometheus
+Presto
+
+#MQ
+Active MQ|ActiveMQ
+tibcoJms|tibco Jms|tibco
+kafka
+kestrel
+RabbitMQ|Rabbit MQ
+OpenJMS|Open JMS
+SonicMQ|Sonic MQ
+
+#rdbms
+Oracle
+MSSQL|MS SQL|MS-SQL|SQL-Server|SQL Server|SQLServer
+MySQL
+postgresql
+SQLite
+DB2
+BerkeleyDB|Berkeley
+
+#ml
+TensorFlow|Tensor Flow
+machine_learning|machinelearning|datascience|data science
+neural_network|neural network
+deep_learning|deep learning
+xgboost
+Torch
+Theano
+Keras
+scikit-learn|sklearn
+dl4j|deeplearning4j
+MATLAB
+
+#saas/paas
+aws|ec2
+emr
+athena
+ecs
+gcp|google cloud
+azure
+digitalocean
+heroku
+#saas
+#paas
+
+#dev-ops
+kubernetes
+docker
+ansible 
+puppet
+
+#mobile
+android
+cordova
+phonegap
+ios
+hybrid
+
+#tools
+elk
+logstash
+kibana
+graphana
+ant
+maven
+sbt
+gradle
+##git
+##svn
+mercurial
+Stash
+Bamboo
+##Jira
+##Confluence
+trello
+
+#BI
+JBPM
+BPMN
+
+#graphics
+Unity
+opengl
+directx
+Javafx
+
+#misc
+guava
+RxJava
+
+#tags
+big_data|bigdata|big data|big-data
+full_stack|fullstack|full stak|full-stack
+mobile
+
+
+
+
+
+
